@@ -1,5 +1,7 @@
 ## Welcome to spokomat
 
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 Original site is [here](https://spokomat.pl).
 
 ```markdown
